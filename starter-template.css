@@ -12,3 +12,10 @@ body {
   background-color: rgba(86, 61, 124, .15);
   border: 1px solid rgba(86, 61, 124, .2);
 }
+
+.toast {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  z-index: 999;
+}
