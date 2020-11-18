@@ -16,3 +16,10 @@ body {
 #mapid { 
   height: 500px; 
 }
+
+.toast {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  z-index: 999;
+}
